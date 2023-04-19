@@ -1,0 +1,21 @@
+
+.dropdownButton {
+    border: none;
+    background-color: transparent;
+    padding: 0;
+    font-weight: bolder;
+    letter-spacing: -0.5px;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.dropdown {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+

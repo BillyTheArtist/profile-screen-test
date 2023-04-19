@@ -1,0 +1,173 @@
+.aboutSection {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 370px;
+    background-color: #ffffff;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    padding: 3px;
+}
+
+.skillContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.sectionWrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;  
+}
+
+
+.pictureSection {
+    display: flex;
+    width: 370px;
+    background-color: #ffffff;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2px;
+}
+
+
+
+.profilePicture{
+    margin-top: 34px;
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    border-radius: 360px;
+}
+
+.pictureBox{
+text-align: center;
+}
+
+.name {
+    font-size: 23px;
+    font-weight: 450;
+    margin-bottom: -12px;
+    letter-spacing: -1px;
+}
+
+.position {
+    color: #92a2b4;
+    font-size: 17px;
+    font-weight: 450;
+    margin-bottom: 34px;
+}
+
+.socialSection {
+    display: flex;
+    width: 370px;
+    height: 64px;
+    background-color: #ffffff;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.learnSection {
+    display: flex;
+    width: 370px;
+    min-height: 60px;
+    background-color: #ffffff;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.bottomSection {
+    display: flex;
+    width: 370px;
+    min-height: 80px;
+    background-color: #ffffff;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border-top: 2px solid #dde8f3;
+}
+
+.iconContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottomIconContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottomIcon{
+    height: 24px;
+    width: auto;
+    color: #778ca2;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.activitiesSection {
+    display: flex;
+    flex-direction: column;
+    width: 370px;
+    background-color: #ffffff;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    padding: 3px;
+}
+
+.activityTag{
+    font-weight: 500;
+    font-size: 20px;
+    float: left;
+}
+.activityContainer{
+    position: relative;
+    right: 10%;
+    float: left;
+    line-height: 2.5;
+}
+
+
+.facebookIcon {
+    color: #778ca2;
+}
+
+.pinterestIcon {
+    color: #778ca2;
+}
+
+.twitterIcon {
+    color: #778ca2;
+}
+
+.linkedinkIcon {
+    color: #778ca2;
+}
+
+.aboutTag {
+    font-weight: 450;
+}
+
+.aboutBio {
+    color: #90a3b9;
+}
+
+
+
+
+
+
